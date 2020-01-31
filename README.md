@@ -1,2 +1,4 @@
 # Micros
-Los códigos del proyecto.
+En este repositorio se divulga el conocimiento del curso De Micros 
+
+
