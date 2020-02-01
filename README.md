@@ -1,7 +1,7 @@
 # Micros
-En este repositorio se divulga el conocimiento del curso De Micros 
 
-Hola pana hice le pull request
+In this project be present a code in C language for a line follower car, using FreeRTOS for this.
+Any question be free to ask.
 
 
 
